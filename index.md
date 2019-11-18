@@ -4,10 +4,14 @@ Basically just code notes for reference.
 
 ### git
 
-1. [Pull Requests to Release](prs-to-release.md)
-2. [Change author of a commit](git-ammend-commit-author.md)
+* [Pull Requests to Release](prs-to-release.md)
+* [Change author of a commit](git-ammend-commit-author.md)
 
 
 ### bash
 
-1. [Work bash prompt](bash-colors.md)
+* [Work bash prompt](bash-colors.md)
+
+### OS X
+
+* [Update OS X screenshot location](osx/screenshot-location.md)
