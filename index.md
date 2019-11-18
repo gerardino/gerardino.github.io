@@ -6,3 +6,8 @@ Basically just code notes for reference.
 
 1. [Pull Requests to Release](prs-to-release.md)
 2. [Change author of a commit](git-ammend-commit-author.md)
+
+
+### bash
+
+1. [Work bash prompt](bash-colors.md)
